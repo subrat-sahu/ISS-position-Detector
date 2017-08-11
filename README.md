@@ -1,6 +1,6 @@
 # ISS-position-Detector
 
-**Need Python3.6.* **
+** Need Python3.6.* **
 
 This python Script uses  
 * 'http://api.open-notify.org/astros.json'
